@@ -198,6 +198,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [ToolBench](https://github.com/OpenBMB/ToolBench) — Benchmark for tool-use capabilities.
 - [ToolEmu](https://github.com/ryoungj/ToolEmu) — LM-based emulation framework for identifying risks of agents with tool use (ICLR '24).
 - [UQLM](https://github.com/cvs-health/uqlm) — Uncertainty quantification for LLMs. UQ-based hallucination detection.
+- [AgentLeak](https://github.com/yagobski/agentleak) — Privacy-leakage benchmark for multi-agent LLM systems: 7 internal communication pathways, 1,000 scenarios (IEEE Access 2026).
 
 ## Safety & Governance
 
